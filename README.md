@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:111827,100:374151&text=Looking%20for%20solutions%20better%20than%20problems&fontColor=f9fafb&fontSize=26&animation=fadeIn" alt="Profile banner" />
 </p>
 
-<h1 align="left">Diego Nombela 🇪🇸 🇷🇴</h1>
+<h1 align="left">Diego Nombela</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI-0f172a?style=flat-square&logo=openai&logoColor=white" alt="AI" />
