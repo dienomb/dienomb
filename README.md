@@ -16,23 +16,12 @@
 
 ## About
 
-Many years in IT, still most interested in the next thing worth building.
+🛠️ Many years in IT, still driven by learning fast and building useful systems.
 
-I like unclear problems, sharp tools, and systems that move from idea to execution without unnecessary noise.
-
-Right now I spend most of my time around AI, especially agentic workflows and the engineering needed to make them useful outside a demo.
-
-## Focus
-
-`AI systems` `agentic workflows` `automation` `integration` `reliable delivery`
-
-## GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dienomb&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub stats for dienomb" />
-</p>
+🤖 Right now the center of gravity is AI, especially agentic workflows that can move from idea to real execution.
 
 ## Links
 
-- GitHub: <https://github.com/dienomb>
-- LinkedIn: <https://www.linkedin.com/in/diego-nombela-carmona-48453814>
+📎 GitHub: <https://github.com/dienomb>
+
+📎 LinkedIn: <https://www.linkedin.com/in/diego-nombela-carmona-48453814>
